@@ -1,0 +1,42 @@
+NAME   : souvik
+
+Identification Number  : 25121
+
+Mobile  : 01902200052
+
+Gender : M
+
+Age  : 23
+
+Specialization  : abcd
+
+  ::::::::::::::::::::::::::: 
+
+NAME   : souvik
+
+Identification Number  : 2512
+
+Mobile  : 01899090
+
+Gender : m
+
+Age  : 21
+
+Specialization  : saas
+
+  ::::::::::::::::::::::::::: 
+
+NAME   : Jagannath
+
+Identification Number  : dey
+
+Mobile  : 01993813513
+
+Gender : M
+
+Age  : 23
+
+Specialization  : ftfty
+
+  ::::::::::::::::::::::::::: 
+
